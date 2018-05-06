@@ -124,6 +124,18 @@ nav ul li a {
   margin-right: auto;
 }
 
+.messageText {
+  display: inline-block;
+  width: 50%;
+  margin-left: 25%;
+  text-align: center;
+}
+
+.buttonWrapper {
+  width: 100%;
+  display: inline-block;
+}
+
 @media(max-width: 786px) {
 
   .logo {
